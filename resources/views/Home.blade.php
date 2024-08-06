@@ -16,5 +16,12 @@
 
     <p>Name: {{ $details['name'] }}</p>
     <p>Address: {{ $details['address'] }}</p>
+    <h1>Hello git</h1>
+    <h1>Hello git</h1>
+    <h1>Hello git</h1>
+    <h1>Hello git</h1>
+    <h1>Hello git</h1>
+    <h1>Hello git</h1>
+    <h1>Hello git</h1>
 </body>
 </html>
