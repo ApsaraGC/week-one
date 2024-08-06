@@ -17,5 +17,7 @@
         <li><a href="{{ $social_links['instagram'] }}" target="_blank">Instagram</a></li>
         <li><a href="{{ $social_links['youtube'] }}" target="_blank">YouTube</a></li>
     </ul>
+    <h1>Hello nau</h1>
+    <h1>Hello nau</h1>
 </body>
 </html>
